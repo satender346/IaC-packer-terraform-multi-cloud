@@ -1,4 +1,4 @@
-#Packer Multi Cloud Image builder with jenkins pre-installed,  IaC for Azure & AWS setup. 
+#Multi-Cloud IaC Deployment automation for Azure & AWS using customized image with pre-installed softwares ( Jenkins, Docker, Helm etc). 
 
 ### Prerequisite: Linux ubuntu, git
 1. Clone the github repo in your ubuntu machine:
